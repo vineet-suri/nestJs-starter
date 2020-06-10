@@ -26,7 +26,7 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository. This estup has jwt strategy provider, cache(redis) module, audit log module, DB migrations, soft delete & user modifiable entity, env setup and code to dynamically generate orm config from env. Basic configuration steps are given as following. 
 
 ## Installation
 
