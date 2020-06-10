@@ -21,6 +21,6 @@ export class JwtStrategy extends PassportStrategy(Strategy) {
      */
     async validate(payload): Promise<User> {
         // code to validate JWT token
-        return new User();
+        return new User(); // just a dummy value - needs to be updated
     }
 }

@@ -63,6 +63,9 @@ $ yarn test:cov
 ## Migrations
 
 ```bash
+# Folder setup
+Create migrations folder under src folder. Create seeds folder within migrations folder.
+
 # create migration file based on model changes
 $ yarn typeorm migration:generate -n <FileName>
 
