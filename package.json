@@ -42,7 +42,7 @@
         "@nestjsx/crud-request": "^4.4.2",
         "@nestjsx/crud-typeorm": "^4.4.1",
         "@types/lodash": "^4.14.149",
-        "axios": "^0.19.2",
+        "axios": "^0.21.1",
         "class-transformer": "^0.2.3",
         "class-validator": "^0.11.0",
         "cpx": "^1.5.0",
