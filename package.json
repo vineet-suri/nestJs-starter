@@ -53,7 +53,7 @@
         "helmet": "^3.21.3",
         "ioredis": "^4.16.0",
         "jsonwebtoken": "^8.5.1",
-        "lodash": "^4.17.15",
+        "lodash": "^4.17.21",
         "moment": "^2.24.0",
         "nestjs-redis": "^1.2.5",
         "passport": "^0.4.1",
