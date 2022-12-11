@@ -60,7 +60,7 @@
         "passport-jwt": "^4.0.0",
         "pg": "^7.17.1",
         "pre-commit": "^1.2.2",
-        "qs": "^6.9.1",
+        "qs": "^6.9.7",
         "reflect-metadata": "^0.1.13",
         "rimraf": "^3.0.0",
         "rxjs": "^6.5.3",
