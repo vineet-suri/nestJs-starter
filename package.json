@@ -44,7 +44,7 @@
         "@types/lodash": "^4.14.149",
         "axios": "^0.19.2",
         "class-transformer": "^0.2.3",
-        "class-validator": "^0.11.0",
+        "class-validator": "^0.14.0",
         "cpx": "^1.5.0",
         "dotenv": "^8.2.0",
         "dotenv-extended": "^2.7.1",
